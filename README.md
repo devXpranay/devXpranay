@@ -1,7 +1,7 @@
 ![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 # 👋 Hello, I'm Pranay Varma!
 
-![Profile Clicks](https://komarev.com/ghpvc/?username=pranay-0512&color=red)
+![Profile Clicks](https://komarev.com/ghpvc/?username=devXpranay&color=red)
 
 ✨ Solving bugs since 2022  
 📚 Currently learning and making projects in Go   
@@ -25,13 +25,13 @@
 
 ## 🚀 Projects
 
-### [decentShare](https://github.com/pranay-0512/decentShare)
+### [decentShare](https://github.com/devXpranay/decentShare)
 A P2P file sharing system following bittorrent protocol.
 
 ### [coCanvas](https://cocanvas.netlify.app/)
 A real-time collaboration whiteboard canvas with dedicated version control using a tree data structure.
 
-### [OpinX](https://github.com/pranay-0512/opinx)
+### [OpinX](https://github.com/devXpranay/opinx)
 Opinion trading app with different microservices, the order-processing engine written in Go
 
 ## 🌟 Work-ex
@@ -56,8 +56,8 @@ Feel free to reach out for collaboration or just a friendly chat. Let's build so
 
 ## 📈 GitHub Stats
 
-![Pranay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranay-0512&theme=dark) <br><br>
-![Pranay's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=pranay-0512&show_icons=true&theme=dark) <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-0512&hide=javascript,css,scss,html&theme=tokyonight) 
+![Pranay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devXpranay&theme=dark) <br><br>
+![Pranay's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=devXpranay&show_icons=true&theme=dark) <br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devXpranay&hide=javascript,css,scss,html&theme=tokyonight) 
 
 
