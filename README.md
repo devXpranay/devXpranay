@@ -55,6 +55,7 @@ Feel free to reach out for collaboration or just a friendly chat. Let's build so
 
 
 ## 📈 GitHub Stats
+[![Pranay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devXpranay&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 ![Pranay's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=devXpranay&show_icons=true&theme=dark) <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devXpranay&hide=javascript,css,scss,html&theme=tokyonight) 
 
